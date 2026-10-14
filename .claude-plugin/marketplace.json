@@ -1,0 +1,6 @@
+{
+  "name": "tmux-bell",
+  "description": "tmux-bell: see which tmux window's Claude Code just replied",
+  "owner": { "name": "olilllioli287" },
+  "plugins": [{ "name": "tmux-bell", "source": "./" }]
+}
