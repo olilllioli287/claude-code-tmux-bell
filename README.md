@@ -1,5 +1,9 @@
 # tmux-bell
 
+> **已經搬到 [tmux-kit](https://github.com/olilllioli287/tmux-kit)（2026-10-15）。** 這裡不再更新，新安裝請用 tmux-kit：裝它的第 3 項「Claude 回完反白」，會自動換掉這裡的舊版本。已經裝了這裡的版本也能繼續用。
+>
+> **Moved to [tmux-kit](https://github.com/olilllioli287/tmux-kit).** This repo is no longer updated; installing tmux-kit's tmux-bell replaces this one automatically.
+
 **繁體中文** | [English](#english)
 
 Claude Code 的 mod（外掛）。在 tmux 裡開好幾個分頁、每個分頁跑一個 Claude Code 時，哪個 Claude **回覆完了**或**在等你允許**，下面狀態列的那個分頁就會反白，切過去看之後自動恢復。
